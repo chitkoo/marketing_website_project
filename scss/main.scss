@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;400;700;900&display=swap');
+
+$font-family-sans-serif:'Roboto', sans-serif;
+
+$primary: #1A129F;
+$secondary: #7E76F9;
+$success: #43B943;
+$danger: #FB294F;
+$warning: #EAB302;
+$info: #FE3595;
+
+
+@import "../node_modules/bootstrap/scss/bootstrap";
